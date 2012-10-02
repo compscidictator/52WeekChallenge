@@ -1,0 +1,24 @@
+This is another sample I'm trying to figure out how to get word wrapping to work on an export from 
+Microsoft Office. Of course I'm running 2007, so newer/older editions may have more options. Or 
+different steps. I don't even know. I just don't.
+
+So let's talk about getting your git set up on ye olde PC. 
+1.	First, go to http://github.com . Make a free account. 
+2.	Go to the repo link and hit fork (it's on the upper left side). You've now forked the repo!
+3.	Now, go here:  http://windows.github.com/ and download the installer. It's only 37 MB...if 
+you're watching your space.
+4.	Login. You'll have to tell it  your name and email.
+5.	You should be able to see the repo that you've forked "acq688/52WeekChallenge" when you 
+click on your name. Go ahead and click the "Clone" link. 
+6.	Once it loads, you should be able to see my information with all of the commits. If you click on 
+Tools, and then "open Explorer", you can see everything in a normal Windows explorer. Go 
+ahead and do this.
+7.	Drag and drop your story into the proper week. So, put your eldritch adventure into Week1. 
+Make sure that it's in a good file format, like I discussed in the other sample pull requests.
+8.	Your Github GUI says "Uncommitted Changes" now. Click on Show.
+9.	Is your story formatted well? Does everything look ok? If so, go ahead and write a commit 
+message. Like, for example, "Amanda's Week 1 Story". When you're done, click commit.
+10.	Notice that your new commit isn't synced. Go ahead and click the sync button. 
+11.	This will add your file up to github. Unless you changed branches, it should be in your "master" 
+branch. Go ahead and open a pull request and send it towards my master. Everyone will be 
+able to see and comment it there.
