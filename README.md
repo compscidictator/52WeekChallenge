@@ -11,7 +11,7 @@ RULES:
 
 2. You don't have to participate every week, but we'll be sad if you don't.
 
-3. Your story can't be 1,667 words, because then everyone will hate you.
+3. Your weekly story can't be MORE than 1,667 words, because then everyone will hate you.
     (You Nanos out there know where this number came from...)
 
 4. No personal insults (i.e. Ryan's story is homoerotic, therefore he is gay.)
