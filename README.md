@@ -8,6 +8,8 @@ available [here](http://www.omnivoracious.com/2012/01/resolve-to-write-52-writin
  1. Starts the week of October 1st (to be due on the 8th!), 
    but we'll probably be taking November off.
 
+OBVIOUSLY, THIS NEVER HAPPENED. LOOK FOR AN EXCITING REBOOT THE FIRST WEEK OF AUGUST.
+
  2. You don't have to participate every week, but we'll be sad if you don't.
 
  3. Your weekly story can't be MORE than 1,667 words, because then everyone will hate you.
